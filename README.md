@@ -17,3 +17,6 @@
 
 － http://plnkr.co/  在线代码工具
 
+## 视频
+
+－ [10 Things to Master to Become A Good JavaScript Developer](https://www.youtube.com/watch?v=6MaOPdQPvow)
