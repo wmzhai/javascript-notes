@@ -13,10 +13,12 @@
 - [Nikolas C. Zakas "Understanding ECMAScript 6"](https://github.com/nzakas/understandinges6)
 
 
-## 工具
+## 在线代码调试工具
 
-－ http://plnkr.co/  在线代码工具
-
+- http://plnkr.co/  
+- https://jsfiddle.net/ 
+- http://jsbin.com/
+- 
 ## 视频
 
 － [10 Things to Master to Become A Good JavaScript Developer](https://www.youtube.com/watch?v=6MaOPdQPvow)
