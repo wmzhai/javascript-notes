@@ -1,4 +1,4 @@
-# learning-javascript
+# Learning Javascript
 
 ## Javascript
 
@@ -21,6 +21,7 @@
 
 ## 书籍 
 
+- javascript忍者秘籍
 - [ES6入门](http://es6.ruanyifeng.com/)
 
 ## 视频
