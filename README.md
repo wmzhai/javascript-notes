@@ -6,6 +6,7 @@
 
 ## ES6相关资料
 - [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+- [ES6 in Depth](https://hacks.mozilla.org/category/es6-in-depth/)
 - [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
 - [Meteor's ecmascript](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md)
 - [Luke Hoban's "ES6 features"](http://git.io/es6features)
