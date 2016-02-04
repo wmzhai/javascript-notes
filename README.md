@@ -23,6 +23,7 @@
 
 - javascript忍者秘籍
 - [ES6入门](http://es6.ruanyifeng.com/)
+- [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
 
 ## 视频
 
