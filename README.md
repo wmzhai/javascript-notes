@@ -3,6 +3,7 @@
 ## 教程
 
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
+- [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/)
 
 ## Javascript
 
